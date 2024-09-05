@@ -1,0 +1,51 @@
+body {
+    background-image: url("img/Background.webp"); 
+    background-size: 1920px
+}
+
+header img {
+    width: 480px;
+    height: 180px;
+    position: relative;
+    left: 0px;
+    bottom: 20px;
+}
+
+.center {
+    text-align: center;
+    position: relative;
+    left: 0px;
+    top: 200px;
+}
+
+footer img {
+    width: 48px;
+    height: 48px;
+    text-align: center;
+    
+}
+
+.instagram {
+    text-align: center;
+    position: relative;
+    left: 0px;
+    top: 140px;
+}
+
+#a1 {
+    text-align: center;
+    position: relative;
+    left: 0px;
+    top: 150px;
+    font-family: Chalkduster, fantasy
+}
+
+#a2 {
+    font-family: Arial, sans-serif
+}
+
+#a3 {
+    position: relative;
+    left: 0px;
+    top: 90px;
+}
